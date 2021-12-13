@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frfernandezdev" alt="frfernandezdev" /></a> </p>
 
-- 🔭 I’m currently working on [Conexperto](https://github.com/Conexperto)
+- 🔭 I’m currently working on [ConeXperto](https://github.com/Conexperto)
 
 - 🌱 I’m currently learning **Dart, Java, DDD, TDD**
 
